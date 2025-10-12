@@ -79,6 +79,6 @@ The SOP recommends a simple manual backup process.
 
 📧 Email: yadneshmraut@gmail.com
 
-🔗 LinkedIn: [YadneshR](www.linkedin.com/in/yadneshishere)
+🔗 LinkedIn: YadneshR www.linkedin.com/in/yadneshishere
 
 💬 Feel free to contact me for setup assistance, troubleshooting, or improvements.
