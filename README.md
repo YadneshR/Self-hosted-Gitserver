@@ -4,6 +4,9 @@ This repository contains the Standard Operating Procedure (SOP) and configuratio
 
 Gitea is a lightweight, easy-to-manage alternative to GitHub or GitLab, ideal for personal projects, small teams, or learning purposes.
 
+![Alt text](https://github.com/YadneshR/Self-hosted-Gitserver/blob/main/Architecture%20Diagram.png)
+
+
 ## **🚀 Key Features of this Setup**
 
 * **Platform:** AWS EC2 (Free-Tier friendly: t3.micro).  
