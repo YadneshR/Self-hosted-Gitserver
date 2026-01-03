@@ -57,7 +57,7 @@ Below are the most critical commands for maintenance, troubleshooting, and daily
 
 ### **C. Backup & Disaster Recovery**
 
-The SOP recommends a simple manual backup process.
+The SOP recommends a simple manual backup process
 
 1. **Stop Gitea & Create Archive**  
    sudo systemctl stop gitea  
